@@ -5,7 +5,7 @@ on:
 
 jobs:
   secure-rdp:
-    runs-on: self-hosted
+    runs-on: kali-linux-lastest
     timeout-minutes: 3600
 
     steps:
